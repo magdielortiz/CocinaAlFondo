@@ -72,7 +72,7 @@ header img {
 }
 
 .opener {
-  margin-top: 100px;
+  margin-top: 150px;
   text-align: center;
 }
 
@@ -84,8 +84,8 @@ header img {
   background-image: url(Images/illustration1.svg);
   background-size: 28%;
   background-repeat: no-repeat;
-  padding-top: 200px;
-  padding-bottom: 330px;
+  padding-top: 250px;
+  padding-bottom: 250px;
   position: relative;
   top: -70px;
   right: -68vw;
@@ -95,13 +95,13 @@ header img {
 
 .illustration {
   background-image: url(Images/illustration2.svg);
-  background-size: 22vw;
+  background-size: 23vw;
   background-repeat: no-repeat;
-  padding-top: 200px;
-  padding-bottom: 200px;
+  padding-top: 210px;
+  padding-bottom: 210px;
   position: relative;
   left: 9vw;
-  top: -200px;
+  top: -275px;
 }
 
 footer {
@@ -151,7 +151,7 @@ footer {
   }
 
   .about {
-    width: 225px;
+    width: 235px;
     margin-top: 160px;
   }
 
@@ -174,10 +174,10 @@ footer {
 }
 
 .illustration {
-  background-size: 38%;
-    padding-top: 80px;
+  background-size: 40%;
+    padding-top: 85px;
     background-position: center;
-    padding-bottom: 80px;
+    padding-bottom: 85px;
     position: relative;
     left: 0;
     top: -200px;
