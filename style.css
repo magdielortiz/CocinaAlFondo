@@ -112,7 +112,7 @@ footer {
   }
 
   header {
-    margin-top: 35px;
+    margin-top: 25px;
     margin-left: 10px;
     margin-right: 10px;
     top: 0;
@@ -127,16 +127,16 @@ footer {
 
   .about {
     width: 225px;
-    margin-top: 180px;
+    margin-top: 160px;
   }
 
   .opener {
-    margin-top: 300px;
+    margin-top: 280px;
   }
 
   footer {
     font-size: .9em;
-    bottom: 5px;
+    bottom: 8px;
   }
 }
 
