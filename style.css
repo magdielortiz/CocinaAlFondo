@@ -112,7 +112,7 @@ footer {
   }
 
   header {
-    margin-top: 50px;
+    margin-top: 35px;
     margin-left: 10px;
     margin-right: 10px;
     top: 0;
@@ -130,12 +130,13 @@ footer {
     margin-top: 180px;
   }
 
-  .contact {
-    margin-bottom: 235px;
+  .opener {
+    margin-top: 300px;
   }
 
   footer {
     font-size: .9em;
+    bottom: 5px;
   }
 }
 
