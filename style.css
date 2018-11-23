@@ -78,6 +78,7 @@ header img {
 
 .contact {
   text-align: center;
+  margin-bottom: -100px;
 }
 
 .image {
@@ -95,13 +96,13 @@ header img {
 
 .illustration {
   background-image: url(Images/illustration2.svg);
-  background-size: 23vw;
+  background-size: 24vw;
   background-repeat: no-repeat;
-  padding-top: 210px;
-  padding-bottom: 210px;
+  padding-top: 215px;
+  padding-bottom: 225px;
   position: relative;
   left: 9vw;
-  top: -275px;
+  top: -160px;
 }
 
 footer {
@@ -109,6 +110,12 @@ footer {
   position: fixed;
   bottom: 10px;
   text-align: center;
+  margin-bottom: 12px;
+}
+
+footer a {
+  color: #125140;
+  text-decoration: none;
 }
 
 /**Tablet Version**/
@@ -160,7 +167,7 @@ footer {
   }
 
 .contact {
-  margin-bottom: 250px;
+  margin-bottom: 150px;
 }
 
 .image {
@@ -180,12 +187,16 @@ footer {
     padding-bottom: 85px;
     position: relative;
     left: 0;
-    top: -200px;
+    top: -115px;
 }
 
   footer {
     font-size: .9em;
     bottom: 8px;
+  }
+  footer a {
+    color: #125140;
+    text-decoration: none;
   }
 }
 
