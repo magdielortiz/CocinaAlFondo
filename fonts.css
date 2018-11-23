@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'TypeType-Regular';
+  src: url('Fonts/TypeType-Regular-webfont.woff2') format('woff2'),
+       url('Fonts/TypeType-Regular-webfont.woff') format('woff'),
+       url('Fonts/TypeType-Regular-webfont.ttf') format('truetype');
+}
