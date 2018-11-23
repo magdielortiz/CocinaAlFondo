@@ -90,18 +90,20 @@ footer {
 
 /**Tablet Version**/
 @media (max-width: 800px) {
-  header {
-    margin-left: 25px;
-    margin-right: 25px;
-  }
+  header img {
+    width: 15%;
+    right: -35vw;
+    top: -40px;
+}
 
-  header nav {
-    padding-bottom: 5.5px;
-  }
+.about {
+    margin-top: 36vh;
+    width: 68vw;
+}
 
-  header h1 img {
-    width: 225px;
-  }
+.contact {
+  margin-bottom: 500px;
+}
 }
 
 /**Iphone**/
@@ -133,6 +135,10 @@ footer {
   .opener {
     margin-top: 280px;
   }
+
+.contact {
+  margin-bottom: 200px;
+}
 
   footer {
     font-size: .9em;
