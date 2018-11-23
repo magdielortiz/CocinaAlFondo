@@ -72,13 +72,37 @@ header img {
 }
 
 .opener {
-  margin-top: 500px;
+  margin-top: 0px;
   text-align: center;
 }
 
 .contact {
-  margin-bottom: 300px;
+  margin-bottom: 50px;
   text-align: center;
+}
+
+.image {
+  background-image: url(Images/illustration1.svg);
+  background-size: 28%;
+  background-repeat: no-repeat;
+  padding-top: 200px;
+  padding-bottom: 330px;
+  position: relative;
+  top: -70px;
+  right: -68vw;
+  -webkit-transform:rotate(-5deg);
+  -moz-transform:rotate(-5deg);
+}
+
+.illustration {
+  background-image: url(Images/illustration2.svg);
+  background-size: 26%;
+  background-repeat: no-repeat;
+  padding-top: 200px;
+  padding-bottom: 275px;
+  position: relative;
+  left: 9vw;
+  top: -250px;
 }
 
 footer {
