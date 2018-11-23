@@ -77,7 +77,6 @@ header img {
 }
 
 .contact {
-  margin-bottom: 50px;
   text-align: center;
 }
 
@@ -96,13 +95,13 @@ header img {
 
 .illustration {
   background-image: url(Images/illustration2.svg);
-  background-size: 26%;
+  background-size: 24vw;
   background-repeat: no-repeat;
-  padding-top: 200px;
-  padding-bottom: 275px;
+  padding-top: 220px;
+  padding-bottom: 220px;
   position: relative;
   left: 9vw;
-  top: -250px;
+  top: -200px;
 }
 
 footer {
@@ -157,11 +156,29 @@ footer {
   }
 
   .opener {
-    margin-top: 280px;
+    margin-top: 150px;
   }
 
 .contact {
   margin-bottom: 250px;
+}
+
+.image {
+  background-position: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+  top: 15px;
+  right: 0px;
+}
+
+.illustration {
+    padding-top: 80px;
+    background-position: center;
+    padding-bottom: 80px;
+    position: relative;
+    left: 0;
+    top: -200px;
 }
 
   footer {
