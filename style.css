@@ -155,13 +155,13 @@ footer a {
   header img {
     position: absolute;
     width: 30%;
-    right: 124px;
+    right: 127px;
     top: 1040px;
   }
 
   .about {
     width: 235px;
-    margin-top: 25px;
+    margin-top: 15px;
   }
 
   .opener {
@@ -183,7 +183,7 @@ footer a {
     padding-top: 60px;
     padding-bottom: 81px;
     position: relative;
-    top: -405px;
+    top: -403px;
     right: 0px;
   }
 
