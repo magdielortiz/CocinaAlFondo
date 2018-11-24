@@ -155,7 +155,7 @@ footer a {
   header img {
     position: absolute;
     width: 33%;
-    right: 122px;
+    right: 126px;
     top: 1000px;
   }
 
@@ -172,6 +172,11 @@ footer a {
     margin-bottom: 150px;
   }
 
+  .contact a {
+    color: #125140;
+    text-decoration: none;
+  }
+
   .image {
     background-size: 25%;
     background-position: center;
@@ -183,13 +188,13 @@ footer a {
   }
 
   .illustration {
-    background-size: 35%;
+    background-size: 34%;
     padding-top: 100px;
     background-position: center;
     padding-bottom: 90px;
     position: relative;
-    left: 0;
-    top: -546px;
+    left: 3px;
+    top: -560px;
   }
 
   footer {
