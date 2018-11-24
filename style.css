@@ -149,13 +149,13 @@ footer a {
   }
 
   header h1 {
-    margin-top: 35px;
+    margin-top: 30px;
   }
 
   header img {
     position: absolute;
     width: 33%;
-    right: 118px;
+    right: 122px;
     top: 1000px;
   }
 
@@ -173,7 +173,7 @@ footer a {
   }
 
   .image {
-    background-size: 26%;
+    background-size: 25%;
     background-position: center;
     padding-top: 60px;
     padding-bottom: 81px;
