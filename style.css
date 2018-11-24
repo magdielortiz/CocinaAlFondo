@@ -154,9 +154,9 @@ footer a {
 
   header img {
     position: absolute;
-    width: 32%;
-    right: 126px;
-    top: 1000px;
+    width: 30%;
+    right: 124px;
+    top: 1040px;
   }
 
   .about {
@@ -165,11 +165,11 @@ footer a {
   }
 
   .opener {
-    margin-top: 210px;
+    margin-top: 235px;
   }
 
   .contact {
-    margin-bottom: 150px;
+    margin-bottom: 120px;
   }
 
   .contact a {
@@ -178,7 +178,7 @@ footer a {
   }
 
   .image {
-    background-size: 25%;
+    background-size: 23%;
     background-position: center;
     padding-top: 60px;
     padding-bottom: 81px;
@@ -188,13 +188,13 @@ footer a {
   }
 
   .illustration {
-    background-size: 34%;
+    background-size: 32%;
     padding-top: 100px;
     background-position: center;
     padding-bottom: 90px;
     position: relative;
     left: 3px;
-    top: -560px;
+    top: -555px;
   }
 
   footer {
