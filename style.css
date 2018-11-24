@@ -90,8 +90,8 @@ header img {
   position: relative;
   top: -70px;
   right: -68vw;
-  -webkit-transform:rotate(-5deg);
-  -moz-transform:rotate(-5deg);
+  -webkit-transform: rotate(-5deg);
+  -moz-transform: rotate(-5deg);
 }
 
 .illustration {
@@ -124,16 +124,16 @@ footer a {
     width: 16%;
     right: -35vw;
     top: -40px;
-}
+  }
 
-.about {
+  .about {
     margin-top: 36vh;
     width: 68vw;
-}
+  }
 
-.contact {
-  margin-bottom: 500px;
-}
+  .contact {
+    margin-bottom: 500px;
+  }
 }
 
 /**Iphone**/
@@ -151,12 +151,10 @@ footer a {
   }
 
   header img {
-    width: 35%;
-    position: absolute;
-    right: 0vw;
-    top:0;
-    display: none;
-
+    position: relative;
+    width: 38%;
+    right: 0;
+    top: 253px;
   }
 
   .about {
@@ -165,41 +163,46 @@ footer a {
   }
 
   .opener {
-    margin-top: 225px;
+    margin-top: 210px;
   }
 
-.contact {
-  margin-bottom: 150px;
-}
+  .contact {
+    margin-bottom: 150px;
+  }
 
-.image {
-  background-size: 30%;
-  background-position: center;
-  padding-top: 110px;
-  padding-bottom: 110px;
-  position: relative;
-  top: -435px;
-  right: 0px;
-}
-
-.illustration {
-  background-size: 40%;
-    padding-top: 85px;
+  .image {
+    background-size: 28%;
     background-position: center;
+    padding-top: 85px;
     padding-bottom: 85px;
     position: relative;
+    top: -415px;
+    right: 0px;
+  }
+
+  .illustration {
+    background-size: 40%;
+    padding-top: 90px;
+    background-position: center;
+    padding-bottom: 90px;
+    position: relative;
     left: 0;
-    top: -590px;
-}
+    top: -580px;
+  }
 
   footer {
     font-size: .9em;
     bottom: 10px;
   }
+
   footer a {
     color: #125140;
     text-decoration: none;
   }
+}
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+  /* STYLES GO HERE */
 }
 
 @keyframes fadeIn {
