@@ -155,7 +155,7 @@ footer a {
   header img {
     position: absolute;
     width: 33%;
-    right: 110px;
+    right: 118px;
     top: 1000px;
   }
 
@@ -173,23 +173,23 @@ footer a {
   }
 
   .image {
-    background-size: 28%;
+    background-size: 26%;
     background-position: center;
     padding-top: 60px;
     padding-bottom: 81px;
     position: relative;
-    top: -407px;
+    top: -405px;
     right: 0px;
   }
 
   .illustration {
-    background-size: 40%;
-    padding-top: 90px;
+    background-size: 35%;
+    padding-top: 100px;
     background-position: center;
     padding-bottom: 90px;
     position: relative;
     left: 0;
-    top: -560px;
+    top: -546px;
   }
 
   footer {
