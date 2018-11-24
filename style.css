@@ -25,7 +25,7 @@ nav {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  top: 48vh;
+  top: 46vh;
 }
 
 nav a {
@@ -82,7 +82,13 @@ header img {
 .contact {
   text-align: center;
   margin-bottom: -100px;
-  z-index: 2;
+  z-index: 3;
+}
+
+.contact a {
+  color: #125140;
+  text-decoration: none;
+  z-index: 3;
 }
 
 .image {
@@ -155,7 +161,7 @@ footer a {
   header img {
     position: absolute;
     width: 30%;
-    right: 127px;
+    right: 130px;
     top: 1040px;
   }
 
@@ -209,7 +215,10 @@ footer a {
 }
 
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
-
+  .about {
+    margin-top: 36vh;
+    width: 100vw;
+}
 
 }
 
