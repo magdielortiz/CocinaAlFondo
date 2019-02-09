@@ -81,6 +81,10 @@ section {
   width: 47vw;
 }
 
+.hero img {
+  
+}
+
 .hours {
   margin-top: 50px;
 }
@@ -91,7 +95,7 @@ section {
 }
 
 .instagram svg {
-  width: 2%;
+  width: 1.6%;
 }
 
 .instagram svg:hover .st1 {
@@ -100,10 +104,6 @@ section {
 
 .instagram svg:hover .st2 {
   stroke: #ff7c76;
-}
-
-.facebook svg {
-  width: 2%;
 }
 
 @keyframes fadeIn {
