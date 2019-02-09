@@ -82,7 +82,7 @@ section {
 }
 
 .hero img {
-  
+
 }
 
 .hours {
@@ -159,7 +159,7 @@ footer a:hover,
   }
 
   header {
-    height: 150px;
+    height: 205px;
   }
 
   header h1 {
@@ -167,14 +167,14 @@ footer a:hover,
   }
 
   header img {
-    width: 100px;
-    position: fixed;
-    right: 137px;
-    top: 115px;
+    margin-top: 50px;
+    margin-left: 90px;
+    width: 98px;
+    position: relative;
   }
 
   .info {
-    margin-top: 100px;
+    margin-top: 35px;
     width: 75%;
   }
 
